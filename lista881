@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Canais: Ao Vivo",ANIMAL PLANET HD
+
+https://assistirtv.xyz/animal-planet/video.m3u8?token=8f0a5c56ba1b8f0ec6201b7fcf0d009a6619d1d9-598f7dfb528df725da8fb2cdcfdff6fd-1649957878-1649954278&remote=172.71.6.40
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png" group-title="Canais: Ao Vivo",A&E HD
+
+http://50.7.34.155:2201/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFM_FvqhCp0iz3AtKyg4Qpj19-ycag_c-5ZhXcR2__D6k2iQ_4O_PqC8&s=10" group-title="Canais: Ao Vivo",AMC HD
+
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURPpyokKPaJMrG1U8DnjSDMRM_Y2R11yawwfi95Nl95iqlIQ7HdRr1PdG&s=10" group-title="Canais: Ao Vivo",ARTE 1 HD
+
+http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="Canais: Ao Vivo",BAND SPORTS HD
+
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo-1.png" group-title="Canais: Ao Vivo",BAND NEWS HD
+
+http://cdn.connectbr.com.br/BandNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais: Ao Vivo",BAND SÃO PAULO HD
+
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4x0_1g5zt79hyW3twnb3HqKX_EuaBNykSXHR3aIWfWc8)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais: Ao Vivo",BAND PA HD
+
+https://streaming.gruporba.com.br/rba.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais: Ao Vivo",BAND MG HD
+
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w624741841.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais: Ao Vivo",BBB MOSAICO HD
+
+http://324agc.lkg1fl1pt.com/live/m2_KNiS9xHOlWPKIT_480p/m2_KNiS9xHOlWPKIT_480p_sensei_1015188743-5.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais: Ao Vivo",BBB 01 HD
+
+http://95.217.86.155:8080/tvonline52022/temp=cache6H=3553234234324235344567==/12?token=QkRfV0JaQV5ABVdUBwdVVAcGAwYAVgIOBQYBBQhXUA1aAARTBAECUlpBSBJDQRNQVF1uWVcXCQkATxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgJBAAKDQVPGxFRVUMDG1QABgIEQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTAFZdV0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQEAVNcQB4=
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais: Ao Vivo",BBB 02 HD
+
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/13?token=QkRfV0JaQV5AUVIFBg1XDAxRUgUBBlEJAVdYUA8FWAEJAgdUAFNUBwNBSBJDQRNQVF1uWVcXCQkBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgJBAMDCQtPGxFRVUMDG1ACDwYQT0YHGxBVQlsAWWpUVEZaVlYaCA1MDVQdQ1ZXOVNTXFMNAEBZRgASGUNcRkATCl1AX1QeQVsITEMATVxEDRQDB1RdQE9GU19AD0FHSRMKEXdhGh5BXBlMVA9KUAlZFAsQFxdAT0ZZQ2oTUEZEQ1VSWFZKEFkbURodQ1RYHmhVXlwNAQEXDV9eRkMPFwATHBFYXFZbF1YTZ0EIXRtcFQEIB1pGHw==
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Canais: Ao Vivo",BBB 03 HD
+
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=3553234234324235344567==/14?token=QkRfV0JaQV5ABQFVAVACBA0FAwYLVAQMCwULBQFUVA1dV1QHAwYCUVJBSBJDQRNQVF1uWVcXCQkGTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBAgJBAMDDgpPGxFRVUMDG1AAAwUQT0YHGxBVQlsAWWpUVEZaVlYaCA1MDVQdQ1ZXOVNTXFMNAEBZRgASGUNcRkATCl1AX1QeQVsITEMATVxEDRQDB1RRQE9GU19AD0FHSRMKEXdhGh5BXBlMVA9KUAlZFAsQFxdAT0ZZQ2oTUEZEQ1VSWFZKEFkbURodQ1RYHmhVXlwNAQEXDV9eRkMPFwATHBFYXFZbF1YTZ0EIXRtcFQEIBFZGHw==
